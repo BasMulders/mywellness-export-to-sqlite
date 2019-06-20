@@ -1,0 +1,8 @@
+.DS_Store
+node_modules
+yarn-error.log
+.idea
+bin
+.env
+yarn.lock
+input.json

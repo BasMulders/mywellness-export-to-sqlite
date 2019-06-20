@@ -1,0 +1,14 @@
+{
+  "name": "mywellness-to-sqlite",
+  "version": "1.0.0",
+  "description": "Transform MyWellness measurements export to a sqlite database",
+  "main": "cli.js",
+  "author": "Sebastian Mulders",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "commander": "^2.20.0",
+    "slugify": "^1.3.4",
+    "sqlite3": "^4.0.9"
+  }
+}
